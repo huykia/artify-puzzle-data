@@ -1,0 +1,119 @@
+﻿{
+    "version": 208935847,
+    "remoteCatalogUrl": "",
+    "ingredientAtlasAddress": "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
+    "pieceAtlasAddresses": [
+        "Assets/Images/Artify/AlliumsStalks/AlliumsStalks.spriteatlasv2",
+        "Assets/Images/Artify/BerriesGrapes/BerriesGrapes.spriteatlasv2",
+        "Assets/Images/Artify/BreadBakery/BreadBakery.spriteatlasv2",
+        "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
+        "Assets/Images/Artify/Citrus/Citrus.spriteatlasv2",
+        "Assets/Images/Artify/CruciferousVegetables/CruciferousVegetables.spriteatlasv2",
+        "Assets/Images/Artify/DairyCheese/DairyCheese.spriteatlasv2",
+        "Assets/Images/Artify/GourdsCucurbits/GourdsCucurbits.spriteatlasv2",
+        "Assets/Images/Artify/GrainsCereals/GrainsCereals.spriteatlasv2",
+        "Assets/Images/Artify/LeafyGreensHerbs/LeafyGreensHerbs.spriteatlasv2",
+        "Assets/Images/Artify/Legumes/Legumes.spriteatlasv2",
+        "Assets/Images/Artify/Melons/Melons.spriteatlasv2",
+        "Assets/Images/Artify/Mushrooms/Mushrooms.spriteatlasv2",
+        "Assets/Images/Artify/NutsSeeds/NutsSeeds.spriteatlasv2",
+        "Assets/Images/Artify/OrchardEveryday Fruits/OrchardEveryday Fruits.spriteatlasv2",
+        "Assets/Images/Artify/PeppersNightshades/PeppersNightshades.spriteatlasv2",
+        "Assets/Images/Artify/RootsTubers/RootsTubers.spriteatlasv2",
+        "Assets/Images/Artify/SaucesSpicesGarnishes/SaucesSpicesGarnishes.spriteatlasv2",
+        "Assets/Images/Artify/SweetsTreats/SweetsTreats.spriteatlasv2",
+        "Assets/Images/Artify/TropicalFruits/TropicalFruits.spriteatlasv2"
+    ],
+    "levels": [
+        {
+            "levelNumber": 1,
+            "isDaily": false,
+            "path": "levels/1.json",
+            "sha256": "de5d4c65ac43c8131683e216575f231e3bc04eb904c98a01e84b9e7b9d321a07"
+        },
+        {
+            "levelNumber": 2,
+            "isDaily": false,
+            "path": "levels/2.json",
+            "sha256": "7faccd42db2373869cfa811c0276cefb040e4146bf598ae898f867399ae0a131"
+        },
+        {
+            "levelNumber": 3,
+            "isDaily": false,
+            "path": "levels/3.json",
+            "sha256": "3b082fe5a31c7c0f4aff2c96ab61d9c236c971c8e2a77d909f684863b56e349d"
+        },
+        {
+            "levelNumber": 4,
+            "isDaily": false,
+            "path": "levels/4.json",
+            "sha256": "516d5375bab32bc57c0c9d98fa73070a1edd12e5ffabf54af6177182611e5b63"
+        },
+        {
+            "levelNumber": 5,
+            "isDaily": false,
+            "path": "levels/5.json",
+            "sha256": "e597c499995aec39916fc48a0b5f0981491dcacbc714c2f816ae718efe7284ae"
+        },
+        {
+            "levelNumber": 6,
+            "isDaily": false,
+            "path": "levels/6.json",
+            "sha256": "84ace4ca9ca87f3984097bb7d3633eeadc8ef2ff01c8cce813ca32adb2286070"
+        },
+        {
+            "levelNumber": 7,
+            "isDaily": false,
+            "path": "levels/7.json",
+            "sha256": "1467f9011f5605f18d15b60f8fb35f6936863b6aad146f990da48038d69ece11"
+        },
+        {
+            "levelNumber": 8,
+            "isDaily": false,
+            "path": "levels/8.json",
+            "sha256": "f1df9f5352f734cf1d94191928cbf59058487d6a608e023c54e71ecc5832783e"
+        },
+        {
+            "levelNumber": 9,
+            "isDaily": false,
+            "path": "levels/9.json",
+            "sha256": "a10053c1d5ca289fadee6584f33435570e4e6f90733445a9a69af0a4e01838ac"
+        },
+        {
+            "levelNumber": 10,
+            "isDaily": false,
+            "path": "levels/10.json",
+            "sha256": "4a44f8a76639906e709279f524156dddf6f7e26649641a9e2c18e38501c1730d"
+        },
+        {
+            "levelNumber": 11,
+            "isDaily": false,
+            "path": "levels/11.json",
+            "sha256": "c2f12652698a27ab742f5080a1a71b85781e9222ccc9cce9a7657e79ec867d54"
+        },
+        {
+            "levelNumber": 1,
+            "isDaily": true,
+            "path": "levels/daily/1.json",
+            "sha256": "1294ee9fc09fd5b0cc584356824eafea9c9482e2b40928b8611fe1449f019023"
+        },
+        {
+            "levelNumber": 2,
+            "isDaily": true,
+            "path": "levels/daily/2.json",
+            "sha256": "982c357517227dbe3ee2defc6737021fba3c9a589aa4e751b7d3c04d56e86f0b"
+        },
+        {
+            "levelNumber": 3,
+            "isDaily": true,
+            "path": "levels/daily/3.json",
+            "sha256": "e646d4587336346e0c7c8f41211b2bcb57b23561bf4ee6acce81d651e7376453"
+        },
+        {
+            "levelNumber": 4,
+            "isDaily": true,
+            "path": "levels/daily/4.json",
+            "sha256": "3f2e3d428f5248e599b66702eec9033c11aef751af71d5c69084bbbd9b1bebfa"
+        }
+    ]
+}
