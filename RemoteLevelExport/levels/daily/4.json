@@ -1,4 +1,4 @@
-﻿{
+{
     "levelNumber": 4,
     "isDaily": true,
     "dailyTimeLimit": 180,
@@ -1275,5 +1275,5 @@
     ],
     "shakeIconIds": [],
     "atlasGuid": "cde81bf3af3b7934eb57a42df0fa6bda",
-    "atlasAddress": ""
+    "atlasAddress": "Assets/Images/Goi y/DailyLevel/Day4/Day4.spriteatlasv2"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
     "levelNumber": 4,
     "isDaily": false,
     "dailyTimeLimit": 0,
@@ -1193,6 +1193,6 @@
         "GrainsCereals_09",
         "GrainsCereals_10"
     ],
-    "atlasGuid": "0a086885a126f1f4aa06a8648709828f",
-    "atlasAddress": "Assets/Images/Level4/Level4.spriteatlasv2"
+    "atlasGuid": "0a44be700c7b17747b21e0b2ec19cffb",
+    "atlasAddress": "Assets/Images/Goi y/Level4/LV4.spriteatlasv2"
 }
