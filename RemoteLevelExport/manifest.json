@@ -1,14 +1,14 @@
 {
-    "version": 209121768,
+    "version": 228262,
     "ingredientAtlasAddress": "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
     "pieceAtlasAddresses": [
         "Assets/Images/Artify/AlliumsStalks/AlliumsStalks.spriteatlasv2",
         "Assets/Images/Artify/BerriesGrapes/BerriesGrapes.spriteatlasv2",
         "Assets/Images/Artify/BreadBakery/BreadBakery.spriteatlasv2",
-        "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
         "Assets/Images/Artify/Citrus/Citrus.spriteatlasv2",
         "Assets/Images/Artify/CruciferousVegetables/CruciferousVegetables.spriteatlasv2",
         "Assets/Images/Artify/DairyCheese/DairyCheese.spriteatlasv2",
+        "Assets/Images/Artify/EggsMeatSeafood/EggsMeatSeafood.spriteatlasv2",
         "Assets/Images/Artify/GourdsCucurbits/GourdsCucurbits.spriteatlasv2",
         "Assets/Images/Artify/GrainsCereals/GrainsCereals.spriteatlasv2",
         "Assets/Images/Artify/LeafyGreensHerbs/LeafyGreensHerbs.spriteatlasv2",
