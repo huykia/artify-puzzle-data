@@ -231,10 +231,10 @@
                 "rotationZ": 0.0
             },
             "hideRect": {
-                "anchoredPositionX": 0.0,
-                "anchoredPositionY": 61.0,
-                "sizeDeltaX": 105.0,
-                "sizeDeltaY": 62.0,
+                "anchoredPositionX": -99.30000305175781,
+                "anchoredPositionY": -60.20000076293945,
+                "sizeDeltaX": 81.0,
+                "sizeDeltaY": 89.0,
                 "anchorMinX": 0.5,
                 "anchorMinY": 0.5,
                 "anchorMaxX": 0.5,
