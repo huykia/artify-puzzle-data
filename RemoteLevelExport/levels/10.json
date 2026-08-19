@@ -29,8 +29,8 @@
             "iconRect": {
                 "anchoredPositionX": -0.0000152587890625,
                 "anchoredPositionY": 0.000072479248046875,
-                "sizeDeltaX": 64.0,
-                "sizeDeltaY": 202.0,
+                "sizeDeltaX": 200.0,
+                "sizeDeltaY": 28.0,
                 "anchorMinX": 0.5,
                 "anchorMinY": 0.5,
                 "anchorMaxX": 0.5,
@@ -42,7 +42,7 @@
                 "localScaleZ": 1.0,
                 "rotationX": 0.0,
                 "rotationY": 0.0,
-                "rotationZ": 0.0
+                "rotationZ": 280.41998291015627
             },
             "hideRect": {
                 "anchoredPositionX": 7.0,
@@ -63,7 +63,7 @@
                 "rotationZ": 0.0
             },
             "hideSpriteId": "cheese 10 1 2-1lev10",
-            "iconSpriteId": "cheese 10 1 2lev10",
+            "iconSpriteId": "DairyCheese_07",
             "siblingIndex": 0
         },
         {
@@ -91,8 +91,8 @@
             "iconRect": {
                 "anchoredPositionX": 0.0,
                 "anchoredPositionY": 0.0,
-                "sizeDeltaX": 80.0,
-                "sizeDeltaY": 201.0,
+                "sizeDeltaX": 200.0,
+                "sizeDeltaY": 28.0,
                 "anchorMinX": 0.5,
                 "anchorMinY": 0.5,
                 "anchorMaxX": 0.5,
@@ -104,7 +104,7 @@
                 "localScaleZ": 1.0,
                 "rotationX": 0.0,
                 "rotationY": 0.0,
-                "rotationZ": 0.0
+                "rotationZ": 254.75
             },
             "hideRect": {
                 "anchoredPositionX": 6.300000190734863,
@@ -125,7 +125,7 @@
                 "rotationZ": 0.0
             },
             "hideSpriteId": "cheese 10 1 3-1lev10",
-            "iconSpriteId": "cheese 10 1 3lev10",
+            "iconSpriteId": "DairyCheese_07",
             "siblingIndex": 1
         },
         {
@@ -153,8 +153,8 @@
             "iconRect": {
                 "anchoredPositionX": 0.0,
                 "anchoredPositionY": 0.0,
-                "sizeDeltaX": 80.0,
-                "sizeDeltaY": 201.0,
+                "sizeDeltaX": 200.0,
+                "sizeDeltaY": 28.0,
                 "anchorMinX": 0.5,
                 "anchorMinY": 0.5,
                 "anchorMaxX": 0.5,
@@ -166,7 +166,7 @@
                 "localScaleZ": 1.0,
                 "rotationX": 0.0,
                 "rotationY": 0.0,
-                "rotationZ": 0.0
+                "rotationZ": 254.75
             },
             "hideRect": {
                 "anchoredPositionX": 5.099999904632568,
@@ -187,7 +187,7 @@
                 "rotationZ": 0.0
             },
             "hideSpriteId": "cheese 10 1 4-1lev10",
-            "iconSpriteId": "cheese 10 1 3lev10",
+            "iconSpriteId": "DairyCheese_07",
             "siblingIndex": 2
         },
         {
@@ -215,8 +215,8 @@
             "iconRect": {
                 "anchoredPositionX": -0.0000152587890625,
                 "anchoredPositionY": 0.0,
-                "sizeDeltaX": 89.0,
-                "sizeDeltaY": 199.0,
+                "sizeDeltaX": 200.0,
+                "sizeDeltaY": 28.0,
                 "anchorMinX": 0.5,
                 "anchorMinY": 0.5,
                 "anchorMaxX": 0.5,
@@ -228,7 +228,7 @@
                 "localScaleZ": 1.0,
                 "rotationX": 0.0,
                 "rotationY": 0.0,
-                "rotationZ": 0.0
+                "rotationZ": 288.0299987792969
             },
             "hideRect": {
                 "anchoredPositionX": -10.300000190734864,
@@ -249,7 +249,7 @@
                 "rotationZ": 0.0
             },
             "hideSpriteId": "cheese 10 1 5-1lev10",
-            "iconSpriteId": "cheese 10 1 5lev10",
+            "iconSpriteId": "DairyCheese_07",
             "siblingIndex": 3
         },
         {

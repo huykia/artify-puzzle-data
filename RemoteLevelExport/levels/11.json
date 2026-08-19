@@ -195,8 +195,8 @@
             "sameSlotId": "",
             "layer": 2,
             "parentRect": {
-                "anchoredPositionX": -33.099998474121097,
-                "anchoredPositionY": 37.5,
+                "anchoredPositionX": -224.6999969482422,
+                "anchoredPositionY": 44.0,
                 "sizeDeltaX": 100.0,
                 "sizeDeltaY": 100.0,
                 "anchorMinX": 0.5,
@@ -213,8 +213,8 @@
                 "rotationZ": 0.0
             },
             "iconRect": {
-                "anchoredPositionX": -181.0,
-                "anchoredPositionY": 2.0,
+                "anchoredPositionX": 0.0,
+                "anchoredPositionY": 0.0,
                 "sizeDeltaX": 330.0,
                 "sizeDeltaY": 330.0,
                 "anchorMinX": 0.5,
@@ -231,8 +231,8 @@
                 "rotationZ": 0.0
             },
             "hideRect": {
-                "anchoredPositionX": -196.0,
-                "anchoredPositionY": 56.0,
+                "anchoredPositionX": 0.0,
+                "anchoredPositionY": 61.0,
                 "sizeDeltaX": 105.0,
                 "sizeDeltaY": 62.0,
                 "anchorMinX": 0.5,
@@ -257,8 +257,8 @@
             "sameSlotId": "",
             "layer": 2,
             "parentRect": {
-                "anchoredPositionX": 282.29998779296877,
-                "anchoredPositionY": -193.89999389648438,
+                "anchoredPositionX": 112.0,
+                "anchoredPositionY": -211.0,
                 "sizeDeltaX": 100.0,
                 "sizeDeltaY": 100.0,
                 "anchorMinX": 0.5,
@@ -275,7 +275,7 @@
                 "rotationZ": 0.0
             },
             "iconRect": {
-                "anchoredPositionX": -181.0,
+                "anchoredPositionX": 0.0,
                 "anchoredPositionY": 2.0,
                 "sizeDeltaX": 200.0,
                 "sizeDeltaY": 200.0,
@@ -293,8 +293,8 @@
                 "rotationZ": 80.15000915527344
             },
             "hideRect": {
-                "anchoredPositionX": -199.60000610351563,
-                "anchoredPositionY": 78.69999694824219,
+                "anchoredPositionX": -18.299999237060548,
+                "anchoredPositionY": 85.80000305175781,
                 "sizeDeltaX": 68.0,
                 "sizeDeltaY": 53.0,
                 "anchorMinX": 0.5,
@@ -436,7 +436,7 @@
             },
             "hideSpriteId": "strawberry 11 4",
             "iconSpriteId": "BerriesGrapes_01",
-            "siblingIndex": 7
+            "siblingIndex": 8
         },
         {
             "id": "10",
@@ -498,7 +498,7 @@
             },
             "hideSpriteId": "strawberry 11 5",
             "iconSpriteId": "BerriesGrapes_01",
-            "siblingIndex": 10
+            "siblingIndex": 11
         },
         {
             "id": "11",
@@ -560,7 +560,7 @@
             },
             "hideSpriteId": "vietquat 11 1",
             "iconSpriteId": "BerriesGrapes_02",
-            "siblingIndex": 11
+            "siblingIndex": 12
         },
         {
             "id": "12",
@@ -622,14 +622,14 @@
             },
             "hideSpriteId": "berry dl 11 1",
             "iconSpriteId": "BerriesGrapes_05",
-            "siblingIndex": 12
+            "siblingIndex": 13
         },
         {
             "id": "13",
             "sameSlotId": "",
             "layer": 3,
             "parentRect": {
-                "anchoredPositionX": 415.0,
+                "anchoredPositionX": 242.8000030517578,
                 "anchoredPositionY": -92.0,
                 "sizeDeltaX": 100.0,
                 "sizeDeltaY": 100.0,
@@ -647,8 +647,8 @@
                 "rotationZ": 0.0
             },
             "iconRect": {
-                "anchoredPositionX": -181.0,
-                "anchoredPositionY": 2.0,
+                "anchoredPositionX": 0.0,
+                "anchoredPositionY": 0.0,
                 "sizeDeltaX": 200.0,
                 "sizeDeltaY": 200.0,
                 "anchorMinX": 0.5,
@@ -665,8 +665,8 @@
                 "rotationZ": 306.94000244140627
             },
             "hideRect": {
-                "anchoredPositionX": -204.8000030517578,
-                "anchoredPositionY": 46.900001525878909,
+                "anchoredPositionX": -24.600000381469728,
+                "anchoredPositionY": 45.900001525878909,
                 "sizeDeltaX": 151.0,
                 "sizeDeltaY": 58.0,
                 "anchorMinX": 0.5,
@@ -684,7 +684,69 @@
             },
             "hideSpriteId": "strawberry 11 2",
             "iconSpriteId": "BerriesGrapes_07",
-            "siblingIndex": 13
+            "siblingIndex": 14
+        },
+        {
+            "id": "14",
+            "sameSlotId": "",
+            "layer": 3,
+            "parentRect": {
+                "anchoredPositionX": -2.0,
+                "anchoredPositionY": 183.0,
+                "sizeDeltaX": 100.0,
+                "sizeDeltaY": 100.0,
+                "anchorMinX": 0.5,
+                "anchorMinY": 0.5,
+                "anchorMaxX": 0.5,
+                "anchorMaxY": 0.5,
+                "pivotX": 0.5,
+                "pivotY": 0.5,
+                "localScaleX": 1.0,
+                "localScaleY": 1.0,
+                "localScaleZ": 1.0,
+                "rotationX": 0.0,
+                "rotationY": 0.0,
+                "rotationZ": 0.0
+            },
+            "iconRect": {
+                "anchoredPositionX": 0.0,
+                "anchoredPositionY": 0.0,
+                "sizeDeltaX": 360.0,
+                "sizeDeltaY": 427.0,
+                "anchorMinX": 0.5,
+                "anchorMinY": 0.5,
+                "anchorMaxX": 0.5,
+                "anchorMaxY": 0.5,
+                "pivotX": 0.5,
+                "pivotY": 0.5,
+                "localScaleX": 1.0,
+                "localScaleY": 1.0,
+                "localScaleZ": 1.0,
+                "rotationX": 0.0,
+                "rotationY": 0.0,
+                "rotationZ": 0.0
+            },
+            "hideRect": {
+                "anchoredPositionX": -46.0,
+                "anchoredPositionY": 124.0,
+                "sizeDeltaX": 190.0,
+                "sizeDeltaY": 90.0,
+                "anchorMinX": 0.5,
+                "anchorMinY": 0.5,
+                "anchorMaxX": 0.5,
+                "anchorMaxY": 0.5,
+                "pivotX": 0.5,
+                "pivotY": 0.5,
+                "localScaleX": 1.0,
+                "localScaleY": 1.0,
+                "localScaleZ": 1.0,
+                "rotationX": 0.0,
+                "rotationY": 0.0,
+                "rotationZ": 0.0
+            },
+            "hideSpriteId": "orange 11 1-1",
+            "iconSpriteId": "Citrus_02",
+            "siblingIndex": 7
         }
     ],
     "currentSlotIcons": [
@@ -730,7 +792,7 @@
                 "rotationY": 0.0,
                 "rotationZ": 124.20999908447266
             },
-            "siblingIndex": 8
+            "siblingIndex": 9
         },
         {
             "iconSpriteId": "BerriesGrapes_01",
@@ -752,7 +814,7 @@
                 "rotationY": 0.0,
                 "rotationZ": 124.20999908447266
             },
-            "siblingIndex": 9
+            "siblingIndex": 10
         }
     ],
     "shakeIconIds": [],
