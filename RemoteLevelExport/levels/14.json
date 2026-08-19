@@ -629,8 +629,8 @@
             "sameSlotId": "",
             "layer": 2,
             "parentRect": {
-                "anchoredPositionX": 42.0,
-                "anchoredPositionY": -83.0,
+                "anchoredPositionX": 94.9000015258789,
+                "anchoredPositionY": -220.10000610351563,
                 "sizeDeltaX": 100.0,
                 "sizeDeltaY": 100.0,
                 "anchorMinX": 0.5,
@@ -647,8 +647,8 @@
                 "rotationZ": 0.0
             },
             "iconRect": {
-                "anchoredPositionX": 56.0,
-                "anchoredPositionY": -145.0,
+                "anchoredPositionX": 0.0,
+                "anchoredPositionY": 0.0,
                 "sizeDeltaX": 300.0,
                 "sizeDeltaY": 390.0,
                 "anchorMinX": 0.5,
@@ -665,8 +665,8 @@
                 "rotationZ": 0.0
             },
             "hideRect": {
-                "anchoredPositionX": -28.600000381469728,
-                "anchoredPositionY": -61.0,
+                "anchoredPositionX": -92.0,
+                "anchoredPositionY": 64.0,
                 "sizeDeltaX": 53.0,
                 "sizeDeltaY": 103.0,
                 "anchorMinX": 0.5,
