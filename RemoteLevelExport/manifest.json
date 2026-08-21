@@ -1,5 +1,5 @@
 {
-    "version": 538256,
+    "version": 545459,
     "ingredientAtlasAddress": "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
     "pieceAtlasAddresses": [
         "Assets/Images/Artify/AlliumsStalks/AlliumsStalks.spriteatlasv2",
@@ -113,6 +113,12 @@
             "isDaily": false,
             "path": "levels/15.json",
             "sha256": "26572e1a8fd8e414bb675bbd3ee552b9314f94c57e680fdb28de3f377ea99ba0"
+        },
+        {
+            "levelNumber": 16,
+            "isDaily": false,
+            "path": "levels/16.json",
+            "sha256": "7217517ef7294bb2d20f8927e2c7e5d8e0cd5c86c24e24274c30162258aa205c"
         },
         {
             "levelNumber": 1,
