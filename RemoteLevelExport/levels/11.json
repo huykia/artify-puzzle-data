@@ -817,7 +817,10 @@
             "siblingIndex": 10
         }
     ],
-    "shakeIconIds": [],
+    "shakeIconIds": [
+        "BerriesGrapes_07",
+        "BerriesGrapes_05"
+    ],
     "atlasGuid": "97231ff80d8c6d54b94ed7b0867621cc",
     "atlasAddress": "Assets/Images/Goi y/Level11/Level11.spriteatlasv2"
 }

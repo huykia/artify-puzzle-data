@@ -1865,7 +1865,9 @@
             "siblingIndex": 31
         }
     ],
-    "shakeIconIds": [],
+    "shakeIconIds": [
+        "OrchardEveryday Fruits_10"
+    ],
     "atlasGuid": "ad5d536cf8421d641b7537045e1ea02c",
     "atlasAddress": "Assets/Images/Goi y/Level12/Level12.spriteatlasv2"
 }

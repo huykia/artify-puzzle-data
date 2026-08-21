@@ -1273,7 +1273,10 @@
             "siblingIndex": 22
         }
     ],
-    "shakeIconIds": [],
+    "shakeIconIds": [
+        "AlliumsStalks_03",
+        "OrchardEveryday Fruits_01"
+    ],
     "atlasGuid": "cde81bf3af3b7934eb57a42df0fa6bda",
     "atlasAddress": "Assets/Images/Goi y/DailyLevel/Day4/Day4.spriteatlasv2"
 }

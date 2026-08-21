@@ -750,7 +750,9 @@
         }
     ],
     "currentSlotIcons": [],
-    "shakeIconIds": [],
+    "shakeIconIds": [
+        "PeppersNightshades_08"
+    ],
     "atlasGuid": "1ff48043df2136d45866e08cf3c72bad",
     "atlasAddress": "Assets/Images/Goi y/Level15/Level15.spriteatlasv2"
 }

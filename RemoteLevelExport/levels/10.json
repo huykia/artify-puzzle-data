@@ -2424,7 +2424,9 @@
         }
     ],
     "currentSlotIcons": [],
-    "shakeIconIds": [],
+    "shakeIconIds": [
+        "SweetsTreats_08"
+    ],
     "atlasGuid": "72492de86f7116c4092cfab39c26a887",
     "atlasAddress": "Assets/Images/Level10/Level10.spriteatlasv2"
 }

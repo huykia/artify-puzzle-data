@@ -130,7 +130,7 @@
         },
         {
             "id": "3",
-            "sameSlotId": "1",
+            "sameSlotId": "",
             "layer": 1,
             "parentRect": {
                 "anchoredPositionX": 139.5,
@@ -192,7 +192,7 @@
         },
         {
             "id": "4",
-            "sameSlotId": "1",
+            "sameSlotId": "",
             "layer": 1,
             "parentRect": {
                 "anchoredPositionX": -118.39999389648438,
@@ -688,7 +688,7 @@
         },
         {
             "id": "12",
-            "sameSlotId": "99",
+            "sameSlotId": "",
             "layer": 3,
             "parentRect": {
                 "anchoredPositionX": 45.0,
@@ -750,7 +750,7 @@
         },
         {
             "id": "13",
-            "sameSlotId": "99",
+            "sameSlotId": "",
             "layer": 3,
             "parentRect": {
                 "anchoredPositionX": -43.19999694824219,
@@ -812,7 +812,7 @@
         },
         {
             "id": "14",
-            "sameSlotId": "1",
+            "sameSlotId": "",
             "layer": 3,
             "parentRect": {
                 "anchoredPositionX": -86.0,
@@ -874,7 +874,7 @@
         },
         {
             "id": "15",
-            "sameSlotId": "1",
+            "sameSlotId": "",
             "layer": 3,
             "parentRect": {
                 "anchoredPositionX": 101.80000305175781,
@@ -998,7 +998,7 @@
         },
         {
             "id": "17",
-            "sameSlotId": "2",
+            "sameSlotId": "",
             "layer": 4,
             "parentRect": {
                 "anchoredPositionX": -37.0,
@@ -1060,7 +1060,7 @@
         },
         {
             "id": "18",
-            "sameSlotId": "2",
+            "sameSlotId": "",
             "layer": 4,
             "parentRect": {
                 "anchoredPositionX": 40.400001525878909,

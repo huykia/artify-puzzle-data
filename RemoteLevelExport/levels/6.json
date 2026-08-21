@@ -378,7 +378,7 @@
         },
         {
             "id": "7",
-            "sameSlotId": "1",
+            "sameSlotId": "",
             "layer": 1,
             "parentRect": {
                 "anchoredPositionX": 146.5,
@@ -440,7 +440,7 @@
         },
         {
             "id": "8",
-            "sameSlotId": "1",
+            "sameSlotId": "",
             "layer": 1,
             "parentRect": {
                 "anchoredPositionX": -128.0,
@@ -874,7 +874,7 @@
         },
         {
             "id": "15",
-            "sameSlotId": "1",
+            "sameSlotId": "",
             "layer": 2,
             "parentRect": {
                 "anchoredPositionX": -206.0,
@@ -1618,7 +1618,7 @@
         },
         {
             "id": "27",
-            "sameSlotId": "99",
+            "sameSlotId": "",
             "layer": 3,
             "parentRect": {
                 "anchoredPositionX": 192.39999389648438,
@@ -1742,7 +1742,7 @@
         },
         {
             "id": "29",
-            "sameSlotId": "99",
+            "sameSlotId": "",
             "layer": 3,
             "parentRect": {
                 "anchoredPositionX": 243.20001220703126,
@@ -1866,7 +1866,7 @@
         },
         {
             "id": "31",
-            "sameSlotId": "3",
+            "sameSlotId": "",
             "layer": 4,
             "parentRect": {
                 "anchoredPositionX": -3.0,
@@ -2486,7 +2486,7 @@
         },
         {
             "id": "41",
-            "sameSlotId": "3",
+            "sameSlotId": "",
             "layer": 4,
             "parentRect": {
                 "anchoredPositionX": 321.79998779296877,
@@ -2548,7 +2548,7 @@
         },
         {
             "id": "42",
-            "sameSlotId": "2",
+            "sameSlotId": "",
             "layer": 4,
             "parentRect": {
                 "anchoredPositionX": -394.0,
@@ -2610,7 +2610,7 @@
         },
         {
             "id": "43",
-            "sameSlotId": "2",
+            "sameSlotId": "",
             "layer": 4,
             "parentRect": {
                 "anchoredPositionX": -309.29998779296877,

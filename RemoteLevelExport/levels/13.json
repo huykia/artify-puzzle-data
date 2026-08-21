@@ -1839,7 +1839,11 @@
             "siblingIndex": 35
         }
     ],
-    "shakeIconIds": [],
+    "shakeIconIds": [
+        "Citrus_02",
+        "TropicalFruits_01",
+        "BerriesGrapes_01"
+    ],
     "atlasGuid": "eed257ce1f82d8347a50f5dacf39f1a3",
     "atlasAddress": "Assets/Images/Goi y/Level13/Level13.spriteatlasv2"
 }
