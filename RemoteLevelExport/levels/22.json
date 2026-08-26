@@ -318,7 +318,7 @@
         {
             "id": "6",
             "sameSlotId": "",
-            "layer": 1,
+            "layer": 2,
             "parentRect": {
                 "anchoredPositionX": -124.0999984741211,
                 "anchoredPositionY": -391.5,
@@ -380,7 +380,7 @@
         {
             "id": "7",
             "sameSlotId": "",
-            "layer": 1,
+            "layer": 2,
             "parentRect": {
                 "anchoredPositionX": 17.299999237060548,
                 "anchoredPositionY": -300.5,
