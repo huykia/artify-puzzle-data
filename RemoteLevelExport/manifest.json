@@ -1,5 +1,5 @@
 {
-    "version": 979092,
+    "version": 979505,
     "ingredientAtlasAddress": "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
     "pieceAtlasAddresses": [
         "Assets/Images/Artify/AlliumsStalks/AlliumsStalks.spriteatlasv2",
@@ -21,7 +21,9 @@
         "Assets/Images/Artify/RootsTubers/RootsTubers.spriteatlasv2",
         "Assets/Images/Artify/SaucesSpicesGarnishes/SaucesSpicesGarnishes.spriteatlasv2",
         "Assets/Images/Artify/SweetsTreats/SweetsTreats.spriteatlasv2",
-        "Assets/Images/Artify/TropicalFruits/TropicalFruits.spriteatlasv2"
+        "Assets/Images/Artify/TropicalFruits/TropicalFruits.spriteatlasv2",
+        "Assets/Images/Artify/Nature/Nature.spriteatlasv2",
+        "Assets/Images/Artify/Object/Object.spriteatlasv2"
     ],
     "levels": [
         {
