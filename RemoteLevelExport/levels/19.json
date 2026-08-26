@@ -1,0 +1,98 @@
+{
+    "levelNumber": 19,
+    "isDaily": false,
+    "dailyTimeLimit": 0,
+    "togglePostCardType": 4,
+    "shareImageId": "Puzzle_20260826_170822",
+    "slots": [
+        {
+            "id": "1",
+            "sameSlotId": "",
+            "layer": 1,
+            "parentRect": {
+                "anchoredPositionX": 181.6999969482422,
+                "anchoredPositionY": 145.8000030517578,
+                "sizeDeltaX": 100.0,
+                "sizeDeltaY": 100.0,
+                "anchorMinX": 0.5,
+                "anchorMinY": 0.5,
+                "anchorMaxX": 0.5,
+                "anchorMaxY": 0.5,
+                "pivotX": 0.5,
+                "pivotY": 0.5,
+                "localScaleX": 1.0,
+                "localScaleY": 1.0,
+                "localScaleZ": 1.0,
+                "rotationX": 0.0,
+                "rotationY": 0.0,
+                "rotationZ": 0.0
+            },
+            "iconRect": {
+                "anchoredPositionX": 0.0,
+                "anchoredPositionY": 0.0,
+                "sizeDeltaX": 250.0,
+                "sizeDeltaY": 166.25,
+                "anchorMinX": 0.5,
+                "anchorMinY": 0.5,
+                "anchorMaxX": 0.5,
+                "anchorMaxY": 0.5,
+                "pivotX": 0.5,
+                "pivotY": 0.5,
+                "localScaleX": 1.0,
+                "localScaleY": 1.0,
+                "localScaleZ": 1.0,
+                "rotationX": 0.0,
+                "rotationY": 0.0,
+                "rotationZ": 106.66999053955078
+            },
+            "hideRect": {
+                "anchoredPositionX": -23.200000762939454,
+                "anchoredPositionY": 1.7999999523162842,
+                "sizeDeltaX": 91.0,
+                "sizeDeltaY": 52.0,
+                "anchorMinX": 0.5,
+                "anchorMinY": 0.5,
+                "anchorMaxX": 0.5,
+                "anchorMaxY": 0.5,
+                "pivotX": 0.5,
+                "pivotY": 0.5,
+                "localScaleX": 1.0,
+                "localScaleY": 1.0,
+                "localScaleZ": 1.0,
+                "rotationX": 0.0,
+                "rotationY": 0.0,
+                "rotationZ": 0.0
+            },
+            "hideSpriteId": "keo 2 19 1",
+            "iconSpriteId": "Object_03",
+            "siblingIndex": 1
+        }
+    ],
+    "currentSlotIcons": [
+        {
+            "iconSpriteId": "Object_04",
+            "rect": {
+                "anchoredPositionX": 0.0,
+                "anchoredPositionY": -81.0,
+                "sizeDeltaX": 900.0,
+                "sizeDeltaY": 828.0,
+                "anchorMinX": 0.5,
+                "anchorMinY": 0.5,
+                "anchorMaxX": 0.5,
+                "anchorMaxY": 0.5,
+                "pivotX": 0.5,
+                "pivotY": 0.5,
+                "localScaleX": 1.0,
+                "localScaleY": 1.0,
+                "localScaleZ": 1.0,
+                "rotationX": 0.0,
+                "rotationY": 0.0,
+                "rotationZ": 0.0
+            },
+            "siblingIndex": 0
+        }
+    ],
+    "shakeIconIds": [],
+    "atlasGuid": "ac5c7125f718c224f8b08940d3a2199e",
+    "atlasAddress": "Assets/Images/Goi y/Level19/Level19.spriteatlasv2"
+}

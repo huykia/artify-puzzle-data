@@ -1,5 +1,5 @@
 {
-    "version": 979505,
+    "version": 988659,
     "ingredientAtlasAddress": "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
     "pieceAtlasAddresses": [
         "Assets/Images/Artify/AlliumsStalks/AlliumsStalks.spriteatlasv2",
@@ -21,9 +21,7 @@
         "Assets/Images/Artify/RootsTubers/RootsTubers.spriteatlasv2",
         "Assets/Images/Artify/SaucesSpicesGarnishes/SaucesSpicesGarnishes.spriteatlasv2",
         "Assets/Images/Artify/SweetsTreats/SweetsTreats.spriteatlasv2",
-        "Assets/Images/Artify/TropicalFruits/TropicalFruits.spriteatlasv2",
-        "Assets/Images/Artify/Nature/Nature.spriteatlasv2",
-        "Assets/Images/Artify/Object/Object.spriteatlasv2"
+        "Assets/Images/Artify/TropicalFruits/TropicalFruits.spriteatlasv2"
     ],
     "levels": [
         {
@@ -133,6 +131,30 @@
             "isDaily": false,
             "path": "levels/18.json",
             "sha256": "18e6b6ed64c082038674bab615ec437ce0832beded695c8909ff5da583abec8f"
+        },
+        {
+            "levelNumber": 19,
+            "isDaily": false,
+            "path": "levels/19.json",
+            "sha256": "7f790af8e5be32d703cf1b482fc0a4506a2befb3bae9550f91c615d02e5e018e"
+        },
+        {
+            "levelNumber": 20,
+            "isDaily": false,
+            "path": "levels/20.json",
+            "sha256": "9e76e40b06a7c2ed96d26bfc83c0fa6c5fc942acfbcc37660c52796d080d66e7"
+        },
+        {
+            "levelNumber": 21,
+            "isDaily": false,
+            "path": "levels/21.json",
+            "sha256": "8f3a90e6d1539b18fd2ddd965c30924f6be16ddb5eac6aebc8c3367703e648cd"
+        },
+        {
+            "levelNumber": 22,
+            "isDaily": false,
+            "path": "levels/22.json",
+            "sha256": "980d4670fa6c161e2b53a1af0818326cec58149726b72e04966098ceef7934a5"
         },
         {
             "levelNumber": 1,
