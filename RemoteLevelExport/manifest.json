@@ -1,5 +1,5 @@
 {
-    "version": 553494,
+    "version": 979092,
     "ingredientAtlasAddress": "Assets/Images/Nguyen lieu/NguyenLieu.spriteatlasv2",
     "pieceAtlasAddresses": [
         "Assets/Images/Artify/AlliumsStalks/AlliumsStalks.spriteatlasv2",
@@ -28,133 +28,133 @@
             "levelNumber": 1,
             "isDaily": false,
             "path": "levels/1.json",
-            "sha256": "de5d4c65ac43c8131683e216575f231e3bc04eb904c98a01e84b9e7b9d321a07"
+            "sha256": "424060bead9c28a34d16244d000be885a55f157ba36c80dd6b54b030bbc77332"
         },
         {
             "levelNumber": 2,
             "isDaily": false,
             "path": "levels/2.json",
-            "sha256": "f58d6b77a08845a2a580ecf5dce1deb3ba35af90719c46c6dfd800a021dd9387"
+            "sha256": "274a0a538fba957e6a96530edf7b2d36c0f48dff3f1b2a56d4d9f78415cbcb5a"
         },
         {
             "levelNumber": 3,
             "isDaily": false,
             "path": "levels/3.json",
-            "sha256": "e43127e2eea43afe147ac6ee300265de567e6fd873297b643ad76a67c9e7ec3f"
+            "sha256": "184f7e1130a8c6b7f57cad576cec0ac64481097b739522c325c41fe6539a9579"
         },
         {
             "levelNumber": 4,
             "isDaily": false,
             "path": "levels/4.json",
-            "sha256": "fc609614a64a43b21c6fff9d0465238a36f9f00ed8d35f4697c4b826e2632936"
+            "sha256": "948461cb0ddeb21c5b13b8553cd2a1eb5495d670f0cd15f7e845ca553e23679c"
         },
         {
             "levelNumber": 5,
             "isDaily": false,
             "path": "levels/5.json",
-            "sha256": "07dd3aaabc459ac2421f357e4a06c4c49ff70442679115a9dcc6855f36d35284"
+            "sha256": "7277bebb690e0a5250d7387b551cc8deff36483fb32f4f92bf4001d03f069122"
         },
         {
             "levelNumber": 6,
             "isDaily": false,
             "path": "levels/6.json",
-            "sha256": "7c6884835b4853737ee27372a911af6c0eb416f423636dc75f83bfd4da3953db"
+            "sha256": "5b7000b2a8a5e902b8a72217cb9ce01a727d2d2496b855cefe797b0075b94410"
         },
         {
             "levelNumber": 7,
             "isDaily": false,
             "path": "levels/7.json",
-            "sha256": "d1c6ec42f4497bc84776e88ca70745c2dd3d639c1026179693a0a63daac6ff42"
+            "sha256": "afb5f4fbbb2d07d3687095f5cec6637ec0a485d62c383292b1ac42819150d78a"
         },
         {
             "levelNumber": 8,
             "isDaily": false,
             "path": "levels/8.json",
-            "sha256": "b556a0eea623c963d555c816cd0380f3b53633912163d703c131296a7dc4e92c"
+            "sha256": "8e4b8b99cee1689195826e96fb1deca25894c6246cfd3a8a7fc9af4df69faac5"
         },
         {
             "levelNumber": 9,
             "isDaily": false,
             "path": "levels/9.json",
-            "sha256": "a10053c1d5ca289fadee6584f33435570e4e6f90733445a9a69af0a4e01838ac"
+            "sha256": "c0153332238bf7c908021bcfd5a9b5b5c039cbd329482d1525b4940579fe5114"
         },
         {
             "levelNumber": 10,
             "isDaily": false,
             "path": "levels/10.json",
-            "sha256": "59227cae3680bcf35a48d7c36410a013b165e0cc46c4ffe8f0eac096a84c8fce"
+            "sha256": "b56a66477e2f88c597537d546836f577a56839e1afed678a07aa4e5d2dcee5da"
         },
         {
             "levelNumber": 11,
             "isDaily": false,
             "path": "levels/11.json",
-            "sha256": "58cbe5e9da30681d448e8fc4832cead630225b5b083b3796ccfcdb7557a30217"
+            "sha256": "ddb094e0f074d9b8a7b314616a2aa0f160ef2cdd471b897b95f0569fef7985b7"
         },
         {
             "levelNumber": 12,
             "isDaily": false,
             "path": "levels/12.json",
-            "sha256": "fb2114187ced5da6c963854b98ca25986996da3f97a846717cc5886f0e18f821"
+            "sha256": "383bbac28d3c659ad525ffcce883aa8122a4a5e499ca9661c574d53573c5bda8"
         },
         {
             "levelNumber": 13,
             "isDaily": false,
             "path": "levels/13.json",
-            "sha256": "c2aeebb19dca6c19346ea538ab6ef49ad4845006078f60b27314823fd9dabdf3"
+            "sha256": "1d4185a6bd0bbf6c8d8db473da551ac4591861668ae37dac8c8650aa352dc943"
         },
         {
             "levelNumber": 14,
             "isDaily": false,
             "path": "levels/14.json",
-            "sha256": "2474646df1a3d32b9400834004a8196d46be831929ace001fcbad2cf2b938039"
+            "sha256": "b5abc8f5fa5c2695504399a80416af113529db1edaa8292bd5ebc5c24273a5c7"
         },
         {
             "levelNumber": 15,
             "isDaily": false,
             "path": "levels/15.json",
-            "sha256": "26572e1a8fd8e414bb675bbd3ee552b9314f94c57e680fdb28de3f377ea99ba0"
+            "sha256": "844c134cfd27396fdf81d91f2ae9107e031db11068e21d2559b6bc0b06d74ef4"
         },
         {
             "levelNumber": 16,
             "isDaily": false,
             "path": "levels/16.json",
-            "sha256": "eb1dbb800866b0c2ce47b357837c580d23bd8fb37b8b5e12468b5df2291b62ee"
+            "sha256": "2598603dcc43a021bf48ca812c22a54c6e71601c53adc7b5ca06f7b1dcc8d654"
         },
         {
             "levelNumber": 17,
             "isDaily": false,
             "path": "levels/17.json",
-            "sha256": "d37282784a16abd4dfd3ad54ef67af3676777fa3fab42fb9f0d60c31e77b3090"
+            "sha256": "abf920c6086f1408f5d6bfadbfc262e2509539fe52a3df4c6fa2c53c7ac8dab3"
         },
         {
             "levelNumber": 18,
             "isDaily": false,
             "path": "levels/18.json",
-            "sha256": "4bfc912a831769c91bb96052a711301af63410a918ed053365e97401119ef722"
+            "sha256": "18e6b6ed64c082038674bab615ec437ce0832beded695c8909ff5da583abec8f"
         },
         {
             "levelNumber": 1,
             "isDaily": true,
             "path": "levels/daily/1.json",
-            "sha256": "0a90c440e640aec1f9040dd4ab6afda730ebd887c74092e1455ab3f57093ce44"
+            "sha256": "4406d579914f934f87aa82f22a3285b0776a4953cdba11f014f7afacc4e948d8"
         },
         {
             "levelNumber": 2,
             "isDaily": true,
             "path": "levels/daily/2.json",
-            "sha256": "a71538beeefc0d0dd36c52878e4ac2ebcdb90fa08e825ff869b96b668b4294c9"
+            "sha256": "6d75f95aeb7f244b1a8619e979fad566ad71d6e70b66ce1dc52d6a21c410fa61"
         },
         {
             "levelNumber": 3,
             "isDaily": true,
             "path": "levels/daily/3.json",
-            "sha256": "1bfa80fc105ccc10140ce1c289d6796d62b99fa71ab4513cdbeb3f3c05e15263"
+            "sha256": "a6300a99913c9bf186c7452637a3d6f5f8c7e2a5fc9fce5ad2286aea51aa76ea"
         },
         {
             "levelNumber": 4,
             "isDaily": true,
             "path": "levels/daily/4.json",
-            "sha256": "f2fcc69153410d5f0097abae7e2a5b49918ad9267ce9bc9d770db8cbab9fc01e"
+            "sha256": "34efbd228d91803f74f46d75da7da36c33673599d8634ab3118fc383055f504c"
         }
     ]
 }

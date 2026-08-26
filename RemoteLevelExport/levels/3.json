@@ -2,6 +2,7 @@
     "levelNumber": 3,
     "isDaily": false,
     "dailyTimeLimit": 0,
+    "togglePostCardType": 1,
     "shareImageId": "Puzzle_20260713_114349",
     "slots": [
         {
